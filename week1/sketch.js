@@ -4,8 +4,8 @@ function setup() {
 }
 
 function draw() {
-  ellipse(400, 85, 100, 90);
-  ellipse(400, 230, 200, 200);
-  ellipse(380, 70, 20, 20);
-  ellipse(420, 70, 20, 20);
+  ellipse(150, 85, 170, 90);
+  ellipse(150, 100, 100, 30);
+  ellipse(115, 40, 20, 20);
+  ellipse(190, 40, 20, 20);
 }
