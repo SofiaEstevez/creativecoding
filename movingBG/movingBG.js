@@ -52,15 +52,15 @@ function draw()
 
   if(level == 1)
   {
-    speed = 15;
+    speed = 5;
   }
   else if(level == 2)
   {
-    speed = 25;
+    speed = 10;
   }
   else
   {
-    speed = 35;
+    speed = 15;
   }
 
   if(success == false && failure == false)
